@@ -5,6 +5,7 @@ Hi there!👋 My name is Eden and I am employed as a Database Associate. I creat
 
 I consider myself to be quite analytical and detail-oriented. When I’m learning something new, I often find myself focusing on the finer details and asking questions that others might not have considered. I sometimes discuss these topics with peers and colleagues, and they occasionally mention that they hadn’t thought about how certain details could impact the subject. I also like to explore the underlying purpose of the topics I’m studying.
 
+Links: [Visit My LinkedIn!](https://www.linkedin.com/in/eden-boychyn/ "Eden Boychyn LinkedIn")
 
 ---
 
