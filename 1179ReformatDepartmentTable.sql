@@ -34,6 +34,10 @@ Insert records into table.
 INSERT INTO Department VALUES (1, 8000, 'Jan'), (2, 9000, 'Jan'), (3, 10000, 'Feb'), (1, 7000, 'Feb'),  (1, 6000, 'Mar'); 
 
 /* For SQL Server */
+/*
+	Select the ID and when/if the month is Jan, Feb, March etc return the corresponding revenue. Use the MAX function to find the revenue for each composite key.
+	The results are returned by id and order by id.
+*/
 SELECT id,
 	MAX(CASE WHEN month = 'Jan' THEN revenue END) AS Jan_Revenue, 
 	MAX(CASE WHEN month = 'Feb' THEN revenue END) AS Feb_Revenue, 
