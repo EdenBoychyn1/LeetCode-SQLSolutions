@@ -35,6 +35,12 @@ If you would like to view my solutions on your local machine, please follow the 
 
 ---
 
+## Known Issues
+For a couple of the SQL Files, I did not write the code the tables, so if you run those files the query will not work, however, this is something that I am in the process of fixing. The files that do not have tables are: 
+1. 1148ArticleViewsI.sql
+2. 577EmployeeBonus.sql
+3. testQuery.sql 
+
 ## Expectations
 
 As this is a learning environment, I am open to any suggestions or feedback I can use to create my tables or queries more efficiently. Let me know if there is anything I can do or improve and I will be grateful for the advice! You can provide advice or feedback by commenting on a specific SQL file that your advice applies.  
