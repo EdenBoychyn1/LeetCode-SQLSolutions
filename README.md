@@ -23,7 +23,7 @@ If you would like to view my solutions on your local machine, please follow the 
 4. Create the database in SQL Server. You can name the SQL database anything you want.
    a. Open SQL Server.
    b. Select the **New Query** button on the top ribbon bar.
-   c. Enter the following SQL Command ```SQL
+   c. Enter the following SQL Command ```
                                       CREATE DATABASE EdensLeetCode;
                                        ```
    d. Refresh the Object Explorer.
