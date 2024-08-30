@@ -1,12 +1,16 @@
 # LeetCode-SQLSolutions
 
+
 Hi there!👋 My name is Eden and I am employed as a Database Associate. I created this repository to showcase my SQL skills on LeetCode problems in both MySQL and SQL Server. I complete the SQL problems within LeetCode and document those solutions in SQL Server. It is advantageous for me to complete these solutions in both query languages as it allows me to learn both concurrently. This repository is primarily used for learning more SQL through a hands-on approach. 
 
 I consider myself to be quite analytical and detail-oriented. When I’m learning something new, I often find myself focusing on the finer details and asking questions that others might not have considered. I sometimes discuss these topics with peers and colleagues, and they occasionally mention that they hadn’t thought about how certain details could impact the subject. I also like to explore the underlying purpose of the topics I’m studying.
 
+
 ---
 
+
 ## Developer Instructions
+
 
 If you would like to view my solutions on your local machine, please follow the steps below👇: 
 1. Select the green **Code** button on the top right of this repository.
