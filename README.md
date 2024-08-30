@@ -24,23 +24,36 @@ If you would like to view my solutions on your local machine, please follow the 
    
    e. Select the **Enter** key to execute the command.
    
-   f In the folder that you have cloned the GitHub repository to, type **ls** to check if the repository was
+   f. In the folder that you have cloned the GitHub repository to, type **ls** to check if the repository was
      successfully cloned.
+
    
 5. Create the database in SQL Server. You can name the SQL database anything you want.
+   
    a. Open SQL Server.
+   
    b. Select the **New Query** button on the top ribbon bar.
+   
    c. Enter the following SQL Command ```
                                       CREATE DATABASE EdensLeetCode;
                                        ```
+   
    d. Refresh the Object Explorer.
-6. Open the file from the directory that you cloned the repository to.
+
+   
+7. Open the file from the directory that you cloned the repository to.
+
    a. Select **File** in the top menu bar.
+   
    b. Select **Open** > **File**.
+   
    c. Navigate to the folder that you cloned the GitHub repository to.
-7. Select the **Execute** button to execute the creation of the table, insert statements, and the query.
+   
+8. Select the **Execute** button to execute the creation of the table, insert statements, and the query.
+
 
 ---
+
 
 ## Known Issues
 For a couple of the SQL Files, I did not write the code for the tables, so if you run those files the query will not work, however, this is something that I am in the process of fixing. The files that do not have tables are: 
@@ -48,7 +61,9 @@ For a couple of the SQL Files, I did not write the code for the tables, so if yo
 2. 577EmployeeBonus.sql
 3. testQuery.sql 
 
+
 ## Expectations
+
 
 As this is a learning environment, I am open to any suggestions or feedback I can use to create my tables or queries more efficiently. Let me know if there is anything I can do or improve and I will be grateful for the advice! You can provide advice or feedback by commenting on a specific SQL file that your advice applies.  
    
