@@ -36,7 +36,7 @@ If you would like to view my solutions on your local machine, please follow the 
 ---
 
 ## Known Issues
-For a couple of the SQL Files, I did not write the code the tables, so if you run those files the query will not work, however, this is something that I am in the process of fixing. The files that do not have tables are: 
+For a couple of the SQL Files, I did not write the code for the tables, so if you run those files the query will not work, however, this is something that I am in the process of fixing. The files that do not have tables are: 
 1. 1148ArticleViewsI.sql
 2. 577EmployeeBonus.sql
 3. testQuery.sql 
