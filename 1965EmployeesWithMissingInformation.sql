@@ -33,6 +33,9 @@ INSERT INTO Employees2 VALUES (2, 'Crew'), (4, 'Haven'), (5, 'Kristian');
 
 INSERT INTO Salaries VALUES (5, 76071), (1, 22517), (4, 63539); 
 
+/*
+* MySQL & SQL Server Solution
+*/
 SELECT employee_id FROM (SELECT employee_id FROM Employees2 EXCEPT SELECT employee_id FROM Salaries) AS table_a
 UNION
 SELECT employee_id FROM (SELECT employee_id FROM Salaries EXCEPT SELECT employee_id FROM Employees2) AS table_b
